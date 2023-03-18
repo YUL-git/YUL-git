@@ -20,14 +20,7 @@ Here are some ideas to get you started:
 
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`
-<style>
-.vl {
-  border-left: 6px solid green;
-  height: 500px;
-}
-</style>
 
-<div class="vl"></div>
 🎖️`[2nd Place] in 2022 Capstone Design 1`
 
 🎖️`[3rd Place] in 2023 LG AImers Online Hackathon AI Challenge`
