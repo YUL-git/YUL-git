@@ -22,17 +22,20 @@ Here are some ideas to get you started:
 E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### ⛏️Tech Blog
-[LINK](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
+[CLIKE HERE!](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
 
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`
-[Detail](https://acidic-silence-606.notion.site/b5c0d588d61242c2955f078fba223a93)
+[DETAIL](https://acidic-silence-606.notion.site/b5c0d588d61242c2955f078fba223a93)
+
 🎖️`[2nd Place] in 2022 Capstone Design 1`
+[DETAIL](https://acidic-silence-606.notion.site/1-61ca686f32af48e297e8050b2de37efd)
 
 🎖️`[3rd Place] in 2023 LG AImers Online Hackathon AI Challenge`
+[DETAIL](https://acidic-silence-606.notion.site/LG-Aimers-Phase2-0bb5c3cc2785487e9c531623e479ce6a)
 
 🎖️`[4th Place] in 2023 LG AImers Offline Hackathon AI Challenge`
-
+[DETAIL](https://acidic-silence-606.notion.site/LG-Aimers-Phase3-b4aa46aca95748398932e1539c1b190c)
 
 ### 👨🏻‍💻Algorithms Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
