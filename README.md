@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)/)
 <!--
 **YUL-git/YUL-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
