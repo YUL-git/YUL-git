@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * I'm currently learning AI.
 ### 📫 How to reach me:
 E-Mail : hramsm@naver.com
+
 E-Mail : hramsm123@gmail.com
 
 ### 🏆AI Challenge
