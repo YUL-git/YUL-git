@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ham Ji Yul 👋
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)/)
 <!--
 **YUL-git/YUL-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 * I am an artificial intelligence developer who enjoys immersion.
 * I'm currently learning AI.
 
-### 🎖️Ranking
+### 🏆AI Challenge
+🥇[1st Place] in 2022 Kangnam Univ AI Challenge
+🎖️[2nd Place] in 2022 Capstone Design 1
+🎖️[3rd Place] in 2023 LG AImers Online Hackathon AI Challenge
+🎖️[4th Place] in 2023 LG AImers Offline Hackathon AI Challenge
+
+
+### 🎖️Algorithms Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
 ### 💻Github Status
 <p>
