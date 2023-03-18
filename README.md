@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### 💁🏻‍♂️About me
 * I am an artificial intelligence developer who enjoys immersion.
 * I'm currently learning AI.
+### 📫 How to reach me: [link keyword][hramsm@naver.com]
 
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 🎖️`[4th Place] in 2023 LG AImers Offline Hackathon AI Challenge`
 
 
-### 🎖️Algorithms Ranking
+### 👨🏻‍💻Algorithms Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
 ### 💻Github Status
 <p>
