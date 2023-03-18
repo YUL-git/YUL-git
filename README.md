@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 * I'm currently learning AI.
 
 ### 🏆AI Challenge
-🥇[1st Place] in 2022 Kangnam Univ AI Challenge
-🎖️[2nd Place] in 2022 Capstone Design 1
-🎖️[3rd Place] in 2023 LG AImers Online Hackathon AI Challenge
-🎖️[4th Place] in 2023 LG AImers Offline Hackathon AI Challenge
+🥇'[1st Place] in 2022 Kangnam Univ AI Challenge'
+🎖️'[2nd Place] in 2022 Capstone Design 1'
+🎖️'[3rd Place] in 2023 LG AImers Online Hackathon AI Challenge'
+🎖️'[4th Place] in 2023 LG AImers Offline Hackathon AI Challenge'
 
 
 ### 🎖️Algorithms Ranking
