@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUL-git&show_icons=true&theme=tokyonight)
+[![유저네임's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUL-git)](https://github.com/YUL-git/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
 
