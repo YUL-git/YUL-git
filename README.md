@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💁🏻‍♂️About me
+### 💁🏻‍♂️About me
 * I am an artificial intelligence developer who enjoys immersion.
 * I'm currently learning AI.
 
-# 🎖️Ranking
+### 🎖️Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
-# 💻Github Status
+### 💻Github Status
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YUL-git&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUL-git&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
