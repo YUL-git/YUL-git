@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ### 💁🏻‍♂️About me
 * I am an artificial intelligence developer who enjoys immersion.
 * I'm currently learning AI.
-### 📫 How to reach me: [LINK] hramsm@naver.com/hramsm123@gmail.com
+### 📫 How to reach me:
+E-Mail : hramsm@naver.com
+E-Mail : hramsm123@gmail.com
 
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`
