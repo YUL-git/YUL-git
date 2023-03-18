@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### ⛏️Tech Blog
-LINK : https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321
+[LINK](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
 
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`
-
+[Detail](https://acidic-silence-606.notion.site/b5c0d588d61242c2955f078fba223a93)
 🎖️`[2nd Place] in 2022 Capstone Design 1`
 
 🎖️`[3rd Place] in 2023 LG AImers Online Hackathon AI Challenge`
