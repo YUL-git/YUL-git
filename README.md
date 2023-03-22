@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
-### ⛏️Tech Blog
+### ⛏️ Portfolio
 [CLIKE HERE!](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
 
 ### 🏆AI Challenge
