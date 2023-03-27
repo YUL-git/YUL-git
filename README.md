@@ -26,12 +26,15 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`
+
 [repo](https://acidic-silence-606.notion.site/b5c0d588d61242c2955f078fba223a93)
 
 🎖️`[2nd Place] in 2022 Capstone Design 1`
+
 [repo](https://acidic-silence-606.notion.site/1-61ca686f32af48e297e8050b2de37efd)
 
 🎖️`[3rd Place] in 2023 LG AImers Offline Hackathon AI Challenge`
+
 [repo]([https://acidic-silence-606.notion.site/LG-Aimers-Phase3-b4aa46aca95748398932e1539c1b190c](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution))
 
 ### 👨🏻‍💻Algorithms Ranking
