@@ -27,7 +27,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
->[repo link](https://github.com/YUL-git/Python-Vision)|[news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
+>[repo link](https://github.com/YUL-git/Python-Vision) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
 
 🥇`[1st Place] in 2022 Capstone Design 1`
 >Task: recommended system through tabular customer data of Istack Mall  
@@ -35,7 +35,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 🥇`[1st Place] in 2023 LG AImers Offline Hackathon AI Challenge`
 >Task: classify the product quality using tabular data from the LG display factory  
->[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution)|[news]()
+>[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [news]()
 
 ### 👨🏻‍💻Algorithms Ranking  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
