@@ -26,14 +26,16 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### 🏆AI Challenge
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`
->[repo](https://github.com/YUL-git/Python-Vision)
+>Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled
+>[repo link](https://github.com/YUL-git/Python-Vision)
 
 🥇`[1st Place] in 2022 Capstone Design 1`
->[repo](https://github.com/YUL-git/Python-Recommandation)
+>Task: recommended system through tabular customer data of Istack Mall
+>[repo link](https://github.com/YUL-git/Python-Recommandation)
 
 🥇`[1st Place] in 2023 LG AImers Offline Hackathon AI Challenge`
 >Task: classify the product quality using tabular data from the LG display factory
->[repo](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution)
+>[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution)
 
 ### 👨🏻‍💻Algorithms Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
