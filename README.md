@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### ⛏️ Portfolio
-[Projects Overview!](https://acidic-silence-606.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
-[Toward AI Reasearch!](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
+> My projects over view [Projects Overview!](https://acidic-silence-606.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
+> Toward AI Research Study [Toward AI Reasearch!](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
 
 ### 🏆AI Challenge
 
