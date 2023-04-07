@@ -29,7 +29,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 🥇`[1st Place] in 2023 LG AImers Offline Hackathon AI Challenge`
 >Task: classify the product quality using tabular data from the LG display factory  
->[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [news](https://www.hankyung.com/economy/article/2023040612457)
+>[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [news](https://www.hankyung.com/it/article/202304071562g)
 
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
