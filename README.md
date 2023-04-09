@@ -39,7 +39,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 >Task: recommended system through tabular customer data of Istack Mall  
 >[repo link](https://github.com/YUL-git/Python-Recommandation)
   
-## 📄AI Paper Implement
+### 📄AI Paper Implement
 >[repo link]()
   
 ### 👨🏻‍💻Algorithms Ranking  
