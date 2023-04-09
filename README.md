@@ -38,6 +38,9 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 🎖️`[1st Place] in 2022 Capstone Design 1`
 >Task: recommended system through tabular customer data of Istack Mall  
 >[repo link](https://github.com/YUL-git/Python-Recommandation)
-
+  
+## 📄AI Paper Implement
+>[repo link]()
+  
 ### 👨🏻‍💻Algorithms Ranking  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
