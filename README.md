@@ -40,7 +40,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 >[repo link](https://github.com/YUL-git/Python-Recommandation)
   
 ### 📄AI Paper Implement
->[repo link]()
+>[repo link](https://github.com/YUL-git/AI-Paper-Code-Implement/blob/main/README.md)
   
 ### 👨🏻‍💻Algorithms Ranking  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
