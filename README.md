@@ -26,8 +26,12 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 > Toward AI Research Study [Toward AI Reasearch!](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
 
 ### 🏆AI Challenge  
-`[In Progress] in 2023 Dacon Book Recommendation Challenge`
->Task: predict the book recommendation algorithm
+`[In Progress] in 2023 Capstone Design 2`
+>Task: AI Thesis English Machine Translation Model
+>[repo link]()
+  
+`[In Progress] in 2023 AI Factory AI Spark Challenge_2`
+>Task: predict community air pollution
 >[repo link]()  
   
 `[In Progress] in 2023 Dacon Book Recommendation Challenge`  
