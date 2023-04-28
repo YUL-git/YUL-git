@@ -40,7 +40,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 🎖️`[Top 6%] in 2023 AI Factory AI Spark Challenge`  
 >Task: classify the air compressor abnomalities  
->[repo link]()  
+>[repo link](https://github.com/YUL-git/2023_AI_Factory_Outlier_Detection_Air_Compressor_faults_Top_6_Solution)  
   
 🥇`[1st Place] in 2023 LG AImers Offline Hackathon AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
