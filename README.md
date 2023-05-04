@@ -26,8 +26,8 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 > Toward AI Research Study [Toward AI Reasearch!](https://machine-learning-research.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
 
 ### 🏆AI Challenge & Projects  
-`[In Progress] in 2023 Implement Anomaly Detection Algorythm`
->Task: Implement Anomaly Detection Algorythm using AKAE Datasets
+`[In Progress] in 2023 Implement Anomaly Detection Algorithms`
+>Task: Implement Anomaly Detection Algorithms using AKAE Datasets
 >[repo link]()  
 
 `[In Progress] in 2023 Capstone Design 2`
