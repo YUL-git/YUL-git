@@ -22,10 +22,14 @@ Here are some ideas to get you started:
 E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### ⛏️ Portfolio
-> My projects over view [Projects Overview!](https://acidic-silence-606.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
-> Toward AI Research Study [Toward AI Reasearch!](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
+> My projects over view [Projects Overview!](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
+> Toward AI Research Study [Toward AI Reasearch!](https://machine-learning-research.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
 
-### 🏆AI Challenge  
+### 🏆AI Challenge & Projects  
+`[In Progress] in 2023 Implement Anomaly Detection Algorythm`
+>Task: Implement Anomaly Detection Algorythm using AKAE Datasets
+>[repo link]()  
+
 `[In Progress] in 2023 Capstone Design 2`
 >Task: AI Thesis English Machine Translation Model
 >[repo link]()
