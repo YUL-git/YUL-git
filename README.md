@@ -32,16 +32,16 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 `[In Progress] in 2023 Capstone Design 2`
 >Task: AI Thesis English Machine Translation Model
->[repo link]()
-  
-`[In Progress] in 2023 AI Factory AI Spark Challenge_2`
->Task: predict community air pollution
->[repo link]()  
+>[repo link]() 
   
 `[In Progress] in 2023 Dacon Book Recommendation Challenge`  
 >Task: predict the book recommendation algorithm  
 >[repo link]()  
-
+  
+🎖️`[Participate Complete] in 2023 AI Factory AI Spark Challenge_2`
+>Task: predict community air pollution
+>[repo link]() 
+  
 🎖️`[Top 6%] in 2023 AI Factory AI Spark Challenge`  
 >Task: classify the air compressor abnomalities  
 >[repo link](https://github.com/YUL-git/2023_AI_Factory_Outlier_Detection_Air_Compressor_faults_Top_6_Solution)  
