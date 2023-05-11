@@ -40,7 +40,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
   
 🎖️`[Participate Complete] in 2023 AI Factory AI Spark Challenge_2`
 >Task: predict community air pollution  
->[repo link]() 
+>[repo link](https://github.com/YUL-git/2023_AI_Spark_Air_Pollution_Prediction) 
   
 🎖️`[Top 6%] in 2023 AI Factory AI Spark Challenge`  
 >Task: classify the air compressor abnomalities  
