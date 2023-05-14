@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * I am an artificial intelligence developer who enjoys immersion.
 * I'm currently learning AI especially for business analytics..
 
-### 📫 How to reach me:
+### 📫 How to reach me  
 E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### ⛏️ Portfolio
