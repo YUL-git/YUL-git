@@ -30,13 +30,9 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 >Task: Implement Anomaly Detection Algorithms using AKAE Datasets
 >[repo link]()  
 
-`[In Progress] in 2023 Capstone Design 2`
->Task: AI Thesis English Machine Translation Model
+🥇`[Graduation Works] in 2023 Capstone Design 2`
+>Task: Transformer-Based AI PDF Paper English Machine Translation Model
 >[repo link]() 
-  
-`[In Progress] in 2023 Dacon Book Recommendation Challenge`  
->Task: predict the book recommendation algorithm  
->[repo link]()  
   
 🎖️`[Participate Complete] in 2023 AI Factory AI Spark Challenge_2`
 >Task: predict community air pollution  
