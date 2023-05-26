@@ -31,8 +31,8 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 >[repo link]()  
 
 🥇`[Graduation Works] in 2023 Capstone Design 2`
->Task: Transformer-Based AI PDF Paper English Machine Translation Model
->[repo link]() 
+>Task: Transformer-Based AI PDF Paper English Machine Translation Model  
+>[repo link](https://github.com/YUL-git/2023_Capstone_Design_Graduate_Work/blob/main/README.md) 
   
 🎖️`[Participate Complete] in 2023 AI Factory AI Spark Challenge_2`
 >Task: predict community air pollution  
