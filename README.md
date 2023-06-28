@@ -27,8 +27,7 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### 🏆AI Challenge & Projects  
 `[In Progress] in 2023 Implement Anomaly Detection Algorithms`
->Task: Implement Anomaly Detection Algorithms using AKAE Datasets
->[repo link]()
+>Task: Implement Anomaly Detection Algorithms using AKAE Datasets  
   
 🥇`[1st Place] in 2023 LG AImers Offline Hackathon AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
