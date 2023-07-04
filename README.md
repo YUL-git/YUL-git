@@ -41,6 +41,9 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 >Task: recommended system through tabular customer data of Istack Mall  
 >[repo link](https://github.com/YUL-git/Python-Recommandation)
 
+🎖️`[Top 2%] in 2023 Dacon Book Recommendation Challenge`
+>Task: Book recommendation system using books and user information  
+  
 🎖️`[Graduation Works] in 2023 Capstone Design 2`
 >Task: Transformer-Based AI PDF Paper English Machine Translation Model  
 >[repo link](https://github.com/YUL-git/2023_Capstone_Design_Graduate_Work/blob/main/README.md)
