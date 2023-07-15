@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 E-Mail : hramsm@naver.com or hramsm123@gmail.com  
 
 ### ⚒️Skillset  
-<img src="https://img.shields.io/badge/Sklearn-#F7931E?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E"/>
+<img src="https://img.shields.io/badge/Sklearn-yelow?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E"/>
 
 ### 👀✨ Portfolio Blog
 > My projects overview [Projects Overview!](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
