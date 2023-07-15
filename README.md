@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 * I'm currently learning AI especially for Anomaly Detection..
 
 ### 📫 How to reach me  
-[![Naver Badge](https://img.shields.io/badge/-naver-3C75A?style=flat-square&logo=naver&logoColor=white&link=hramsm@naver.com)](hramsm@naver.com)  
+<a href="mailto:hramsm@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:hramsm@naver.com"/></a> 
+
 E-Mail : hramsm@naver.com or hramsm123@gmail.com  
 
 ### ⚒️Skillset  
