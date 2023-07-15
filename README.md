@@ -23,13 +23,13 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### ⚒️Skillset  
 
-<img src="https://img.shields.io/badge/sklearn-F7931E?style=flate-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flate-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flate-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/sklearn-F7931E?style=flate-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flate-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flate-square&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=flate-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flate-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flate-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flate-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flate-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flate-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flate-square&logo=microsoftazure&logoColor=white">
 
 
 ### 👀✨ Portfolio Blog
