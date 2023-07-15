@@ -2,10 +2,10 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)/)  
   
 ### 💁🏻‍♂️About me
-* My MBTI is ENFP/INFP✨
-* I like basketball🏀
-* I want to be AI researcher.
-* I'm currently studying AI especially for Anomaly Detection.
+* My MBTI is ENFP/INFP ✨
+* I like basketball 🏀
+* I want to be AI researcher 🧪
+* I'm currently studying AI especially for Anomaly Detection 📈
 
 ### 📫 How to reach me  
 <a href="mailto:hramsm@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:hramsm@naver.com"/></a> <a href="mailto:hramsm123@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hramsm123@gmail.com"/></a>  
