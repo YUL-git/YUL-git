@@ -1,12 +1,12 @@
 ### Ham Ji Yul 👋
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)/)  
   
-### 💁🏻‍♂️About me
+### 💁🏻‍♂️ About me
 * My MBTI is ENFP/INFP ✨
 * I like basketball 🏀
 * I want to be AI researcher 🧪
 
-### 🔎Research Interest  
+### 🔎 Research Interest  
 * Anomaly Detection
 * Deep Learning (NLP, CV)
 * Data Mining
@@ -14,10 +14,10 @@
 ### 📫 How to reach me  
 <a href="mailto:hramsm@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:hramsm@naver.com"/></a> <a href="mailto:hramsm123@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hramsm123@gmail.com"/></a>  
   
-### ⚒️Skillset  
+### ⚒️ Skillset  
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"><br> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"><br> <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><br> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
   
-### 👀✨ Portfolio Blog
+### 👀 Portfolio Blog
 > My projects overview [Projects Overview!](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
 > Toward AI Research Personal Study [Toward AI Reasearch!](https://machine-learning-research.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)  
 
@@ -25,7 +25,7 @@
 🧪`[In Progress]` in 2023 Image Based Quality Inspection Anomaly Detection
 >[repo link](https://github.com/YUL-git/memae-anomaly-detection)
   
-### 🏆AI Challenge & Projects  
+### 🏆 AI Challenge & Projects  
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [korean economy news](https://www.hankyung.com/it/article/202304071562g) | [school news](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)
@@ -53,5 +53,5 @@
 >[repo link](https://github.com/YUL-git/2023_Capstone_Design_Graduate_Work/blob/main/README.md)  
    
   
-### 👨🏻‍💻Algorithms Ranking  
+### 👨🏻‍💻 Algorithms Ranking  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
