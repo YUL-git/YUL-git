@@ -5,23 +5,24 @@
 * My MBTI is ENFP/INFP ✨
 * I like basketball 🏀
 * I want to be AI researcher 🧪
-* I'm currently studying AI especially for Anomaly Detection 📈
 
+### 🔎Research Interest  
+* Anomaly Detection
+* Deep Learning (NLP, CV)
+* Data Mining
+  
 ### 📫 How to reach me  
 <a href="mailto:hramsm@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:hramsm@naver.com"/></a> <a href="mailto:hramsm123@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hramsm123@gmail.com"/></a>  
   
 ### ⚒️Skillset  
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"><br> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"><br> <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><br> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-
-
-
-
+  
 ### 👀✨ Portfolio Blog
 > My projects overview [Projects Overview!](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
 > Toward AI Research Personal Study [Toward AI Reasearch!](https://machine-learning-research.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)  
 
 ### 👨🏻‍🔬 Research  
-🥽🧪`[In Progress]` in 2023 Image Based Quality Inspection Anomaly Detection
+🧪`[In Progress]` in 2023 Image Based Quality Inspection Anomaly Detection
 >[repo link](https://github.com/YUL-git/memae-anomaly-detection)
   
 ### 🏆AI Challenge & Projects  
