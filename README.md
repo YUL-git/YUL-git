@@ -1,22 +1,11 @@
 ### Ham Ji Yul 👋
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)/)
-<!--
-**YUL-git/YUL-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com](https://acidic-silence-606.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)/)  
+  
 ### 💁🏻‍♂️About me
-* I am an artificial intelligence developer who enjoys immersion.
-* I'm currently learning AI especially for Anomaly Detection..
+* My MBTI is ENFP/INFP✨
+* I like basketball🏀
+* I want to be AI researcher.
+* I'm currently studying AI especially for Anomaly Detection.
 
 ### 📫 How to reach me  
 <a href="mailto:hramsm@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:hramsm@naver.com"/></a> <a href="mailto:hramsm123@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hramsm123@gmail.com"/></a>  
