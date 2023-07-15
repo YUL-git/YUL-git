@@ -23,13 +23,14 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 ### 👀✨ Portfolio
 > My projects overview [Projects Overview!](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
-> Toward AI Research Personal Study [Toward AI Reasearch!](https://machine-learning-research.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)
+> Toward AI Research Personal Study [Toward AI Reasearch!](https://machine-learning-research.notion.site/4213c3e3c58a4c4cbb60d2f2753e0321)  
 
-### 🏆AI Challenge & Projects  
-`[In Progress] in 2023 Implement Anomaly Detection Algorithms`
->Task: Implement Anomaly Detection Algorithms using AKAE Datasets  
+### 👨🏻‍🔬 Research  
+🥽🧪`[In Progress]` in 2023 Image Based Quality Inspection Anomaly Detection
+>[repo link](https://github.com/YUL-git/memae-anomaly-detection)
   
-🥇`[1st Place] in 2023 LG AImers Offline Hackathon AI Challenge`  
+### 🏆AI Challenge & Projects  
+🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [korean economy news](https://www.hankyung.com/it/article/202304071562g) | [school news](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)
 
@@ -46,18 +47,15 @@ E-Mail : hramsm@naver.com or hramsm123@gmail.com
 
 🎖️`[Top 6%] in 2023 AI Factory AI Spark Challenge`  
 >Task: classify the air compressor abnomalities  
->[repo link](https://github.com/YUL-git/2023_AI_Factory_Outlier_Detection_Air_Compressor_faults_Top_6_Solution)   
+>[repo link](https://github.com/YUL-git/2023_AI_Factory_Outlier_Detection_Air_Compressor_faults_Top_6_Solution)  
+
+🎖️`[Top 6%] in 2023 AI Factory AI Spark Challenge_2`  
+>Task: predict community air pollution  
   
-`[Graduation Works] in 2023 Capstone Design 2`
+👨🏻‍🎓`[Graduation Works] in 2023 Capstone Design 2`  
 >Task: Transformer-Based AI PDF Paper English Machine Translation Model  
 >[repo link](https://github.com/YUL-git/2023_Capstone_Design_Graduate_Work/blob/main/README.md)  
-  
-`[Participate Complete] in 2023 AI Factory AI Spark Challenge_2`
->Task: predict community air pollution  
->[repo link](https://github.com/YUL-git/2023_AI_Spark_Air_Pollution_Prediction)  
-  
-### 📄AI Paper Implement
->[repo link](https://github.com/YUL-git/AI-Paper-Code-Implement/blob/main/README.md)
+   
   
 ### 👨🏻‍💻Algorithms Ranking  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
