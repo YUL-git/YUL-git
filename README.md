@@ -22,7 +22,15 @@ Here are some ideas to get you started:
 E-Mail : hramsm@naver.com or hramsm123@gmail.com  
 
 ### ⚒️Skillset  
-<img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/microsoftazure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 
 ### 👀✨ Portfolio Blog
 > My projects overview [Projects Overview!](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)  
