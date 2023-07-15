@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me  
 <a herf="hramsm@naver.com" target="_blank"><img src="https://img.shields.io/badge/naver-#3C75A?style=flat-square&logo=naver&logoColor=white"/></a>  
+[![Facebook Badge](https://img.shields.io/badge/-naver-3C75A?logo=naver&logoColor={로고 색상(hex)}&link={페이스북 주소(url)})]({페이스북 주소(url)})
 E-Mail : hramsm@naver.com or hramsm123@gmail.com  
 
 ### ⚒️Skillset  
