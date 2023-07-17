@@ -26,6 +26,7 @@
 ### 👨🏻‍🔬 Research  
 🧪`[In Progress]` in 2023 Image Based Quality Inspection Anomaly Detection
 >[repo link](https://github.com/YUL-git/memae-anomaly-detection)
+  
 📄`[In Publishing]` in 2023 Yolo V5 WBF Ensemble
   
 ### 🏆 AI Challenge & Projects  
