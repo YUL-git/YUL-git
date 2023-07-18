@@ -24,19 +24,19 @@
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"><br> 
 
 ## 👨🏻‍🔬 Research  
-🧪`[In Progress]` in 2023 Image Based Quality Inspection Anomaly Detection
->[repo link](https://github.com/YUL-git/memae-anomaly-detection)
-  
-📄`[In Publishing]` in 2023 Yolo V5 WBF Ensemble
+|PERIOD|TITLE|설명|
+|---|---|---|
+|2023.6.26~<br>|Yolo V5 WBF Ensemble|논문 작성중|
+|2023.6.26~<br>|Memory Network Anomaly Detection|[연구 진행중](https://github.com/YUL-git/memae-anomaly-detection)|
   
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2023.07.01~<br>2023.09.01|LG Aimers/Data Intelligence 3기|[link](https://www.notion.so/machine-learning-research/LG-Aimers-3-974051ba84d949b590e4953f04486163?pvs=4)|
-|2023.06.26~<br>2023.09.01|SKT FLY AI 3기|[link](https://www.notion.so/machine-learning-research/SKT-FLY-AI-2-975c81ab37f549a8980e4d5420147f06?pvs=4)|
-|2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[link](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
-|2023.01.02~<br>2023.03.24|LG Aimers/Data Intelligence 2기|[link](https://www.notion.so/machine-learning-research/LG-Aimers-2-b46fa57fa1584debb5066c3d1eed624f?pvs=4)|
-|2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[link](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
+|2023.07.01~<br>2023.09.01|LG Aimers/Data Intelligence 3기|[수료증](https://www.notion.so/machine-learning-research/LG-Aimers-3-974051ba84d949b590e4953f04486163?pvs=4)|
+|2023.06.26~<br>2023.09.01|SKT FLY AI 3기|[수료증](https://www.notion.so/machine-learning-research/SKT-FLY-AI-2-975c81ab37f549a8980e4d5420147f06?pvs=4)|
+|2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[수료증](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
+|2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
+|2023.01.02~<br>2023.03.24|LG Aimers/Data Intelligence 2기|[수료증](https://www.notion.so/machine-learning-research/LG-Aimers-2-b46fa57fa1584debb5066c3d1eed624f?pvs=4)|
 
 ## 🏆 AI Challenge & Projects  
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
