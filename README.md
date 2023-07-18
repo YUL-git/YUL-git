@@ -28,8 +28,7 @@
 >[repo link](https://github.com/YUL-git/memae-anomaly-detection)
   
 📄`[In Publishing]` in 2023 Yolo V5 WBF Ensemble
-
----
+  
 ### ✨ Experience
 |PERIOD|TITLE|설명|
 |---|---|---|
