@@ -31,7 +31,7 @@
   
 ### ✨ Experience
 |PERIOD|TITLE|설명|
-|------|---|---|
+|-------------|----------|--------|
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[link](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 |2023.01.02~<br>2023.03.24|LG Aimers/Data Intelligence 2기|[link](https://www.notion.so/machine-learning-research/LG-Aimers-2-b46fa57fa1584debb5066c3d1eed624f?pvs=4)|
 |2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[link](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
