@@ -29,6 +29,12 @@
   
 📄`[In Publishing]` in 2023 Yolo V5 WBF Ensemble
   
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+  
 ### 🏆 AI Challenge & Projects  
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
