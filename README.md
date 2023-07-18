@@ -23,13 +23,13 @@
 #### Learning for MLops (in SKT FLY AI Phase 3)  
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"><br> 
 
-## 👨🏻‍🔬 Research  
+### 👨🏻‍🔬 Research  
 🧪`[In Progress]` in 2023 Image Based Quality Inspection Anomaly Detection
 >[repo link](https://github.com/YUL-git/memae-anomaly-detection)
   
 📄`[In Publishing]` in 2023 Yolo V5 WBF Ensemble
   
-## ✨ Experience  
+### ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
 |2023.07.01~<br>2023.09.01|LG Aimers/Data Intelligence 3기|[link](https://www.notion.so/machine-learning-research/LG-Aimers-3-974051ba84d949b590e4953f04486163?pvs=4)|
