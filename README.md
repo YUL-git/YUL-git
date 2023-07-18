@@ -30,7 +30,7 @@
 📄`[In Publishing]` in 2023 Yolo V5 WBF Ensemble
   
 ### ✨ Experience  
-
+  
 |PERIOD|TITLE|설명|
 |---|---|---|
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[link](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
