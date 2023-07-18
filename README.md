@@ -1,11 +1,11 @@
-### Ham Ji Yul 👋
+## Ham Ji Yul 👋
   
-### 💁🏻‍♂️ About me
+## 💁🏻‍♂️ About me
 * My MBTI is ENFP/INFP ✨
 * I like basketball 🏀
 * I want to be AI researcher 🧪
 
-### 🔎 Research Interest  
+## 🔎 Research Interest  
 * Anomaly Detection
 * Deep Learning (NLP, CV)
 * Data Mining
