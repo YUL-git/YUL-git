@@ -30,7 +30,6 @@
 📄`[In Publishing]` in 2023 Yolo V5 WBF Ensemble
   
 ## ✨ Experience  
----
 |PERIOD|TITLE|설명|
 |---|---|---|
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[link](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
@@ -39,6 +38,9 @@
 |2023.06.26~<br>2023.09.01|SKT FLY AI 3기|[link](https://www.notion.so/machine-learning-research/SKT-FLY-AI-2-975c81ab37f549a8980e4d5420147f06?pvs=4)|
 |2023.07.01~<br>2023.09.01|LG Aimers/Data Intelligence 3기|[link](https://www.notion.so/machine-learning-research/LG-Aimers-3-974051ba84d949b590e4953f04486163?pvs=4)|
   
+## ✨ Awards
+
+
 ### 🏆 AI Challenge & Projects  
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
