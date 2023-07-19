@@ -32,7 +32,7 @@
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2023.09.01~<br>2023.12.31|Naver Hyper X 엠베세더|진행하고 싶은 활동!!|
+|2023.09.01~<br>2023.12.31|Naver AI RUSH 2023 Naver Clova Hyper X 엠베세더|진행하고 싶은 활동!!|
 |2023.07.01~<br>2023.09.01|LG AI 연구원 주관 LG Aimers/Data Intelligence 3기|[활동 내용](https://www.notion.so/machine-learning-research/LG-Aimers-3-974051ba84d949b590e4953f04486163?pvs=4)/ [공식사이트](https://www.lgaimers.ai/)|
 |2023.06.26~<br>2023.09.01|SKT 주관 SKT FLY AI 3기|[활동 내용](https://www.notion.so/machine-learning-research/SKT-FLY-AI-2-975c81ab37f549a8980e4d5420147f06?pvs=4)/ [공식사이트](https://www.skttechacademy.com/)|
 |2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
