@@ -40,6 +40,12 @@
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 
 ## 🏆 AI Challenge & Projects  
+`[In Progress] in 2023 LG LG Life Health Demand Forecast`  
+  
+`[In Progress] in 2023 A project to promote tourism and culture using generative AI`  
+  
+`[In Progress] in 2023 SKT FLY AI Hackathon`  
+  
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [korean economy news](https://www.hankyung.com/it/article/202304071562g) | [school news](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)
