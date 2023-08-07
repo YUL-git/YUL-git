@@ -21,14 +21,14 @@
 #### Coding Environment
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"> <img src="https://img.shields.io/badge/paperspace-000000?style=flat-square&logo=paperspace&logoColor=white">
 #### Learning for MLops (in SKT FLY AI Phase 3)  
-<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"><br> 
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"><br> 
 
 ## 👨🏻‍🔬 Research  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2023.6.26~<br>|Yolo V5 WBF Ensemble|논문 작성중|
-|2023.6.26~<br>|Memory Network Anomaly Detection|[연구 진행중](https://github.com/YUL-git/memae-anomaly-detection)|
-  
+|2023.08.07~<br>|미래와 과거 공변량, 그리고 정적 공변량을 적용한 LTSF-DLinear 모델 논문 코드 구현|[구현 코드]()|
+|2023.06.26~<br>|Yolo V5 WBF Ensemble|논문 작성중|
+|2023.06.26~<br>|Memory Network Anomaly Detection|[연구 진행중](https://github.com/YUL-git/memae-anomaly-detection)|
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
