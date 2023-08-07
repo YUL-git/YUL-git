@@ -26,7 +26,7 @@
 ## 👨🏻‍🔬 Research  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2023.08.07<br>|미래와 과거 공변량, 그리고 정적 공변량을 적용한 LTSF-DLinear 모델 논문 코드 구현|[구현 코드]()|
+|2023.08.07<br>|Implementation of the LTSF-DLinear Model Incorporating Future, Past, and Static Covariates|[구현 코드]()|
 |2023.06.26~<br>|Yolo V5 WBF Ensemble|논문 작성중|
 |2023.06.26~<br>|Memory Network Anomaly Detection|[연구 진행중](https://github.com/YUL-git/memae-anomaly-detection)|
 ## ✨ Experience  
