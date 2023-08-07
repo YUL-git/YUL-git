@@ -28,7 +28,7 @@
 |---|---|---|
 |2023.08.07<br>|Implementation of the LTSF-DLinear Model Incorporating Future, Past, and Static Covariates|[구현 코드]()|
 |2023.06.26~<br>|Yolo V5 WBF Ensemble|논문 작성중|
-|2023.06.26~<br>|Implementation of Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[연구 진행중](https://github.com/YUL-git/memae-anomaly-detection)|
+|2023.06.26~<br>|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[구현 코드](https://github.com/YUL-git/memae-anomaly-detection)|
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
