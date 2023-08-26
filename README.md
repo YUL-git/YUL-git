@@ -42,8 +42,6 @@
 ## 🏆 AI Challenge & Projects  
 `[In Progress] in 2023 LG LG Life Health Demand Forecast`  
   
-`[In Progress] in 2023 A project to promote tourism and culture using generative AI`  
-  
 `[In Progress] in 2023 SKT FLY AI Hackathon`  
   
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
