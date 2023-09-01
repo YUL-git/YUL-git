@@ -43,8 +43,8 @@
 `[In Progress] in 2023 LG LG Life Health Demand Forecast`  
   
 🥈`[2nd Place] in 2023 SKT FLY AI Challenge, Agarang: Aga image creation service`  
->Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women
->[repo link](https://github.com/Agarang) [SKY FLY AI News]()  
+>Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
+>[repo link](https://github.com/Agarang) | [SKY FLY AI News]()  
   
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
