@@ -41,7 +41,7 @@
 ## 🏆 AI Challenge & Projects  
 `[In Progress] in 2023 LG LG Life Health Demand Forecast`  
   
-🥈`[2nd Place] in 2023 SKT FLY AI Challenge, Agarang: Aga image creation service`  
+🥈`[2nd Place] in 2023 SKT FLY AI Challenge, Agarang: Baby image generation and chatbot service product`  
 >Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
 >[organization link](https://github.com/Agarang) | [SKY FLY AI News]()  
   
