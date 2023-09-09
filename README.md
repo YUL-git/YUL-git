@@ -41,7 +41,7 @@
 ## 🏆 AI Challenge & Projects  
 `[In Progress] in 2023 LG LG Life Health Demand Forecast`  
   
-🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge(Offline Hackathon)`  
+🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [school news](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
   
@@ -49,7 +49,7 @@
 >Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
 >[organization link](https://github.com/Agarang) | [SKY FLY AI News]()  
   
-🥉`[3rd Place] in 2023 SKT & Hana Bank Tech4Good AI Challenge(Offline Hackathon)`  
+🥉`[3rd Place] in 2023 SKT & Hana Bank Tech4Good AI Challenge`  
 >Task: Emotional Training Services for Autism Spectrum Disorders
   
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
