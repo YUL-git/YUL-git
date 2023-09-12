@@ -7,10 +7,10 @@
 
 ### 🔎 Research Interest  
 * Anomaly Detection
-* Deep Learning (NLP, CV)
+* Deep Learning (NLP, CV, Time Series)
 * Data Mining
   
-### 📫 Contach & Blog
+### 📫 Contact & Tech Blog
 <a href="mailto:hramsm@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:hramsm@naver.com"/></a> <a href="mailto:hramsm123@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hramsm123@gmail.com"/></a> <a href="https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=[hramsm@naver.com](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)"/></a>
   
 ### ⚒️ Skillset  
@@ -34,7 +34,7 @@
 |PERIOD|TITLE|설명|
 |---|---|---|
 |2023.07.01~<br>2023.09.18|LG AI 연구원 주관 LG Aimers/Data Intelligence 3기|[활동 내용](https://dacon.io/competitions/official/236129/overview/description)/ [공식사이트](https://www.lgaimers.ai/)|
-|2023.06.26~<br>2023.09.01|SKT 주관 SKT FLY AI 3기|[수료증, 상장](https://www.notion.so/machine-learning-research/SKT-FLY-AI-Challenge-Agarang-8d173592ca0d40a482f5829fbbb1d043?pvs=4)[활동 내용](https://suloth.tistory.com/173)/ [공식사이트](https://www.skttechacademy.com/)|
+|2023.06.26~<br>2023.09.01|SKT 주관 SKT FLY AI 3기|[수료증, 상장](https://www.notion.so/machine-learning-research/SKT-FLY-AI-Challenge-Agarang-8d173592ca0d40a482f5829fbbb1d043?pvs=4)/[활동 내용](https://suloth.tistory.com/173)/ [공식사이트](https://www.skttechacademy.com/)|
 |2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
 |2023.01.02~<br>2023.03.26|LG AI 연구원 주관 LG Aimers/Data Intelligence 2기|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/LG-Aimers-2-b46fa57fa1584debb5066c3d1eed624f?pvs=4)/ [공식사이트](https://www.lgaimers.ai/)|
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
