@@ -58,7 +58,7 @@
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
 >[repo link](https://github.com/YUL-git/2022_probono_object_detection_by_yolov5_1st_place_solution) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
 
-🥇`[1st Place] in 2022 Capstone Design 1`
+🥇`[1st Place] in 2022 Capstone Design Project`
 >Task: recommended system through tabular customer data of Istack Mall  
 >[repo link](https://github.com/YUL-git/Python-Recommandation)
 
@@ -69,7 +69,7 @@
 >Task: classify the air compressor abnomalities  
 >[repo link](https://github.com/YUL-git/2023_AI_Factory_Outlier_Detection_Air_Compressor_faults_Top_6_Solution)  
   
-👨🏻‍🎓`[Graduation Works] in 2023.06 Capstone Design 2`  
+👨🏻‍🎓`[Graduation Works] in 2023 Capstone Design Project`  
 >Task: Transformer-Based AI PDF Paper English Machine Translation Model  
 >[repo link](https://github.com/YUL-git/2023_Capstone_Design_Graduate_Work/blob/main/README.md)  
    
