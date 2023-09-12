@@ -74,7 +74,7 @@
 >[repo link](https://github.com/YUL-git/2023_Capstone_Design_Graduate_Work/blob/main/README.md)  
    
 `[Participate complete] in 2023 AI Factory AI Spark Challenge2`  
->Task: predict community air pollution
+>Task: Time Series Forecasting Community Air Pollution
   
 ### 👨🏻‍💻 Algorithms Ranking  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hramsm)](https://solved.ac/hramsm/)
