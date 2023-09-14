@@ -52,7 +52,7 @@
 >[organization link](https://github.com/Agarang) | [SKY FLY AI News](https://www.skttechacademy.com/) | [School News]()    
   
 🥉`[3rd Place] in 2023 SKT & Hana Bank Tech4Good AI Challenge`  
->Task: Emotional Training Services for Autism Spectrum Disorders
+>Task: Emotional Training Services for Autism Spectrum Disorders  
 >[SKT-Hana News](http://www.nextdaily.co.kr/news/articleView.html?idxno=222105)
   
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
