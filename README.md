@@ -53,6 +53,7 @@
   
 🥉`[3rd Place] in 2023 SKT & Hana Bank Tech4Good AI Challenge`  
 >Task: Emotional Training Services for Autism Spectrum Disorders
+>[SKT-Hana News](http://www.nextdaily.co.kr/news/articleView.html?idxno=222105)
   
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
