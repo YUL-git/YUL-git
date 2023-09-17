@@ -41,8 +41,9 @@
 
 ## 🏆 AI Challenge & Projects  
 `[In Progress] in 2023 Samsung Image Quality Assessment AI Challenge `  
-`[In Progress] in 2023 LG Life Health Demand Forecast`  
-  
+
+🎖️`[Advancing to the final round] in 2023 LG Life Health Demand Forecast`   
+    
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
