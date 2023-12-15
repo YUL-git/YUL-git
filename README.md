@@ -40,18 +40,18 @@
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 
 ## 🏆 AI Challenge & Projects  
-`[In Progress] in 2023 Samsung Image Quality Assessment AI Challenge `  
-
-🎖️`[Advancing to the final round] in 2023 LG Life Health Demand Forecast`   
-    
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
   
 🥈`[2nd Place] in 2023 SKT FLY AI Challenge`  
 >Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
->[organization link](https://github.com/Agarang) | [SKY FLY AI News](https://www.skttechacademy.com/) | [School News]()    
-  
+>[organization link](https://github.com/Agarang) | [SKY FLY AI News](https://www.skttechacademy.com/) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=bb9d0a262dedff046ba4022d36216f7d)    
+
+🥉`[3rd Place] in 2023 HD AI Challenge`  
+>Task: Prediction of Construction Equipment Operating Weight  
+>[School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=27095e9ab771c274b4d35f99796db0fc)   
+
 🥉`[3rd Place] in 2023 SKT & Hana Bank Tech4Good AI Challenge`  
 >Task: Emotional Training Services for Autism Spectrum Disorders  
 >[SKT-Hana News](http://www.nextdaily.co.kr/news/articleView.html?idxno=222105)
