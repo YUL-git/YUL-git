@@ -27,7 +27,7 @@
 |PERIOD|TITLE|설명|
 |---|---|---|
 |2023.05.04~<br>|MCCAE : Memory-augmented Cycle Consistency with Autoencoder for Unsupervised Anomaly Detection|논문 작성 중|
-|2023.06.26~<br>|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|논문 심사 중|
+|2023.06.26~<br>|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|논문 게재 확정|
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[대회 실험 코드](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[paperwithcode 코드 기재](https://github.com/YUL-git/MemAE)|
 ## ✨ Experience  
