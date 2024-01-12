@@ -6,8 +6,10 @@
 * I want to be AI researcher 🧪
 
 ### 🔎 Research Interest  
+* Vision Inspection
 * Anomaly Detection
-* Deep Learning (NLP, CV, Time Series)
+* Vision Language Model
+* Time Series Forecasting
 * Data Mining
   
 ### 📫 Contact & Tech Blog
