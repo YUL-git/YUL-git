@@ -28,13 +28,15 @@
 ## 👨🏻‍🔬 Research  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2023.05.04~<br>|MCCAE : Memory-augmented Cycle Consistency with Autoencoder for Unsupervised Anomaly Detection|논문 작성 중|
-|2023.06.26~<br>|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|논문 게재 확정|
+[2024.03.18~<br>|CMF Flow: Cross Modal Fusion Flow Leaveriging Normalizing Flows for Unsupervised Anomaly Detection|연구 수행 중|
+|2023.05.04~<br>|MCCAE : Memory-augmented Cycle Consistency with Autoencoder for Unsupervised Anomaly Detection|연구 수행 중|
+|2023.06.26~<br>|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|논문 게재|
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[대회 실험 코드](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[paperwithcode 코드 기재](https://github.com/YUL-git/MemAE)|
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
+|2024.01.02~<br>2024.02.28|LG AI 연구원 주관 LG Aimers/Data Intelligence 4기|수료|
 |2023.07.01~<br>2023.09.18|LG AI 연구원 주관 LG Aimers/Data Intelligence 3기|[활동 내용](https://dacon.io/competitions/official/236129/overview/description)/ [공식사이트](https://www.lgaimers.ai/)|
 |2023.06.26~<br>2023.09.01|SKT 주관 SKT FLY AI 3기|[수료증, 상장](https://www.notion.so/machine-learning-research/SKT-FLY-AI-Challenge-Agarang-8d173592ca0d40a482f5829fbbb1d043?pvs=4)/[활동 내용](https://suloth.tistory.com/173)/ [공식사이트](https://www.skttechacademy.com/)|
 |2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
