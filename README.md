@@ -30,7 +30,7 @@
 |---|---|---|
 |2024.03.18~<br>|CMF Flow: Cross Modal Fusion Flow Leaveriging Normalizing Flows for Unsupervised Anomaly Detection|연구 수행 중|
 |2023.05.04~<br>|MCCAE : Memory-augmented Cycle Consistency with Autoencoder for Unsupervised Anomaly Detection|연구 수행 중|
-|2023.06.26~<br>|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|논문 게재|
+|2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|논문 게재|
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[대회 실험 코드](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[paperwithcode 코드 기재](https://github.com/YUL-git/MemAE)|
 ## ✨ Experience  
