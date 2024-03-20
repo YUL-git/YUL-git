@@ -69,7 +69,7 @@
 🎖`[Top 2%] in 2024 LG Online Channel Product Sales Forecast AI Online Hackathon`  
 >Task:  Online Channel Product Sales Forecast  
   
-🎖️`[Top 2%] in 2023 Dacon Book Recommendation AI Challenge`
+🎖️`[Top 1%] in 2023 Dacon Book Recommendation AI Challenge`
 >Task: Book recommendation system using books and user information  
 
 🎖️`[Top 6%] in 2023 AI Factory AI Spark Challenge`  
