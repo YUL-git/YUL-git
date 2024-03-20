@@ -49,11 +49,11 @@
 🥈`[2nd Place] in 2023 SKT FLY AI Challenge`  
 >Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
 >[organization link](https://github.com/Agarang) | [SKY FLY AI News](https://www.skttechacademy.com/) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=bb9d0a262dedff046ba4022d36216f7d)    
-
+  
 🥉`[3rd Place] in 2023 HD AI Challenge`  
 >Task: Prediction of Construction Equipment Operating Weight  
 >[School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=27095e9ab771c274b4d35f99796db0fc)   
-
+  
 🥉`[3rd Place] in 2023 SKT & Hana Bank Tech4Good AI Challenge`  
 >Task: Emotional Training Services for Autism Spectrum Disorders  
 >[SKT-Hana News](http://www.nextdaily.co.kr/news/articleView.html?idxno=222105)
@@ -65,7 +65,10 @@
 🥇`[1st Place] in 2022 Capstone Design Project`
 >Task: recommended system through tabular customer data of Istack Mall  
 >[repo link](https://github.com/YUL-git/Python-Recommandation)
-
+  
+🎖`[Top 2%] in 2024 LG Online Channel Product Sales Forecast AI Online Hackathon`  
+>Task:  Online Channel Product Sales Forecast  
+  
 🎖️`[Top 2%] in 2023 Dacon Book Recommendation AI Challenge`
 >Task: Book recommendation system using books and user information  
 
