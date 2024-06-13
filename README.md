@@ -8,6 +8,7 @@
 * I want to be AI researcher 🧪
 
 ### 🔎 Research Interest  
+* Vision-Language Model
 * Visual Anomaly Detection
 * Multimodal Representation Learning
 * Data Mining
