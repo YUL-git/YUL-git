@@ -11,7 +11,6 @@
 * Vision-Language Model
 * Visual Anomaly Detection
 * Multimodal Representation Learning
-* Data Mining
   
 ### 📫 Contact & Tech Blog
 <a href="mailto:hramsm@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:hramsm@naver.com"/></a> <a href="mailto:hramsm123@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:hramsm123@gmail.com"/></a> <a href="https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=[hramsm@naver.com](https://machine-learning-research.notion.site/ML-DL-Engineer-18d10d06532d4421bd26811afb348407)"/></a>
