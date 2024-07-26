@@ -56,7 +56,7 @@
   
 🥈`[2nd Place] in 2023 SKT FLY AI Challenge`  
 >Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
->[organization link](https://github.com/Agarang) | [SKY FLY AI News](https://www.skttechacademy.com/) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=bb9d0a262dedff046ba4022d36216f7d)    
+>[Team Space](https://github.com/Agarang) | [SKY FLY AI News](https://www.skttechacademy.com/) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=bb9d0a262dedff046ba4022d36216f7d)    
   
 🥉`[3rd Place] in 2023 HD AI Challenge`  
 >Task: Prediction of Construction Equipment Operating Weight  
