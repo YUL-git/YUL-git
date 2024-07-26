@@ -28,6 +28,7 @@
 |PERIOD|TITLE|설명|
 |---|---|---|
 |2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
+|2024.04.18~<br>2024.10.16|2024 The 15th International Conference on ICT Convergence|ETRI 논문경진대회|
 |2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[SKT AI Fellowship 6기](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)<br>[Team Space](https://github.com/TeletoVision)|
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[한국컴퓨터정보학회](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)|
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[Experiments CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
@@ -35,7 +36,6 @@
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2024.07.29~<br>2024.09.11|2024 ETRI Self-Improving Artificial Intelligence Competition|진행중|
 |2024.07.01~<br>2024.08.28|LG AI 연구원 주관 LG Aimers 5기|진행중|
 |2024.01.02~<br>2024.02.28|LG AI 연구원 주관 LG Aimers 4기|수료|
 |2023.07.01~<br>2023.09.18|LG AI 연구원 주관 LG Aimers 3기|[활동 내용](https://dacon.io/competitions/official/236129/overview/description)/ [공식사이트](https://www.lgaimers.ai/)|
@@ -45,6 +45,10 @@
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 
 ## 🏆 AI Challenge & Projects  
+`[Proceeding] in 2024 ETRI Self-Improving Artificial Intelligence Competition`  
+`[Proceeding] in 2024 The 15th International Conference on ICT Convergence`  
+`[Proceeding] in 2024 LG Electronics Vehicle component Solutions AI Challenge`  
+
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
