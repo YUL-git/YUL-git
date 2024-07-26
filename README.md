@@ -31,7 +31,7 @@
 |2024.04.18~<br>2024.10.16|2024 The 15th International Conference on ICT Convergence|ETRI 논문경진대회|
 |2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[Team Space](https://github.com/TeletoVision)<br>[Blog POST](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[SKT AI Fellowship 6기](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)<br>[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>|
-|2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[Experiments CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
+|2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
