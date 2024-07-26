@@ -58,14 +58,14 @@
 🥉`[3rd Place] in 2023 SKT & Hana Bank Tech4Good AI Challenge`  
 >Task: Emotional Training Services for Autism Spectrum Disorders  
 >[SKT-Hana News](http://www.nextdaily.co.kr/news/articleView.html?idxno=222105)
+
+🥉`[3rd Place] in 2023 AI vs Human Text Detection Hackathon`
+>Task: AI vs Human Text Detection
+>[CODE](https://dacon.io/competitions/official/236178/codeshare/9144)
   
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
->[repo link](https://github.com/YUL-git/2022_probono_object_detection_by_yolov5_1st_place_solution) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
-
-🥇`[1st Place] in 2022 Capstone Design Project`
->Task: recommended system through tabular customer data of Istack Mall  
->[repo link](https://github.com/YUL-git/Python-Recommandation)
+>[repo link](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
   
 🎖`[Top 2%] in 2024 LG Online Channel Product Sales Forecast AI Online Hackathon`  
 >Task:  Online Channel Product Sales Forecast  
