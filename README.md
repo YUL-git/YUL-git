@@ -45,9 +45,9 @@
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 
 ## 🏆 AI Challenge & Projects  
-`[Proceeding] in 2024 ETRI Self-Improving Artificial Intelligence Competition`  
-`[Proceeding] in 2024 The 15th International Conference on ICT Convergence`  
-`[Proceeding] in 2024 LG Electronics Vehicle component Solutions AI Challenge`  
+`[Proceeding] in 2024 ETRI Self-Improving Artificial Intelligence Competition(07/29~09/11)`  
+`[Proceeding] in 2024 The 15th International Conference on ICT Convergence(04/18~10/16)`  
+`[Proceeding] in 2024 LG Electronics Vehicle component Solutions AI Challenge(08/01~08/28)`  
 
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
