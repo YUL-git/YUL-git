@@ -27,7 +27,7 @@
 ## 👨🏻‍🔬 Research  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원|
+|2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
 |2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[SKT AI Fellowship 6기](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)<br>[Team Space](https://github.com/TeletoVision)|
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[한국컴퓨터정보학회](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)|
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[Experiments CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
