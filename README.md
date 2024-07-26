@@ -47,7 +47,9 @@
 
 ## 🏆 AI Challenge & Projects  
 `🤗[Proceeding] in 2024 ETRI Self-Improving Artificial Intelligence Competition(07/29~09/11)`  
+  
 `🤗[Proceeding] in 2024 The 15th International Conference on ICT Convergence(04/18~10/16)`  
+  
 `🤗[Proceeding] in 2024 LG Electronics Vehicle component Solutions AI Challenge(08/01~08/28)`  
 
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
