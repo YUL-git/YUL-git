@@ -13,11 +13,11 @@
 * Multimodal Representation Learning
   
 ## 👨🏻‍🔬 Publication
-|PERIOD|TITLE|설명|
+|PERIOD|TITLE|Conference|
 |---|---|---|
-|2024.09.27~<br>2025.04.24|2025 The Thirteenth International Conference on Learning Representations (ICLR)| Under review|
-|2024.12.22~<br>2025.02.18|2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)|Submitted|
-|2024.04.18~<br>2024.10.16|2024 The 15th International Conference on ICT Convergence<br>Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[CODE](https://github.com/YUL-git/ETRI_LifeLog)<br>[IEEE ICTC 2024](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)|
+|2024.09.27~<br>2025.04.24|Under review|2025 The Thirteenth International Conference on Learning Representations (ICLR)|
+|2024.12.22~<br>2025.02.18|Submitted|2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)|
+|2024.04.18~<br>2024.10.16|Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[2024 The 15th International Conference on ICT Convergence](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)<br>[CODE](https://github.com/YUL-git/ETRI_LifeLog)|
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)<br>[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>|
 ## 👨🏻‍🔬 Project  
 |PERIOD|TITLE|설명|
