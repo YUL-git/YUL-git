@@ -15,19 +15,19 @@
 ## 👨🏻‍🔬 Publication
 |PERIOD|TITLE|Conference|
 |---|---|---|
-|2024.09.27~<br>2025.04.24|Under review|2025 The Thirteenth International Conference on Learning Representations (ICLR)|
-|2024.12.22~<br>2025.02.18|Submitted|2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)|
-|2024.04.18~<br>2024.10.16|Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[2024 The 15th International Conference on ICT Convergence](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)<br>[CODE](https://github.com/YUL-git/ETRI_LifeLog)|
-|2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)<br>[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>|
+|2024.09.27~<br>2025.04.24|Under review|[ICLR 2025](https://iclr.cc/)|
+|2024.12.22~<br>2025.02.18|Submitted|[ICAIIC 2025](https://icaiic.org/)|
+|2024.04.18~<br>2024.10.16|Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[ICTC 2024](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)<br>[CODE](https://github.com/YUL-git/ETRI_LifeLog)|
+|2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)|
 ## 👨🏻‍🔬 Project  
-|PERIOD|TITLE|설명|
+|PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
 |2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[Team Space](https://github.com/TeletoVision)<br>[Project Intro](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|[]
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
 ## ✨ Experience  
-|PERIOD|TITLE|설명|
+|PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |2024.07.01~<br>2024.08.28|LG AI 연구원 주관 LG Aimers 5기|수료|
 |2024.05.31~<br>2024.10.31|SKT 주관 SKT AI Fellowship 6기|진행중|
