@@ -27,16 +27,18 @@
 ## 👨🏻‍🔬 Research  
 |PERIOD|TITLE|설명|
 |---|---|---|
+|2024.09.27~<br>2025.04.24|2025 The Thirteenth International Conference on Learning Representations (ICLR)| Under review|
+|2024.12.22~<br>2025.02.18|2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)|Submitted|
 |2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
-|2024.04.18~<br>2024.10.16|2024 The 15th International Conference on ICT Convergence|[CODE](https://github.com/YUL-git/ETRI_LifeLog)<br>[ETRI 논문경진대회](https://aifactory.space/task/2790/overview)|
-|2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[Team Space](https://github.com/TeletoVision)<br>[Project Intro](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|
+|2024.04.18~<br>2024.10.16|2024 The 15th International Conference on ICT Convergence<br>Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[CODE](https://github.com/YUL-git/ETRI_LifeLog)<br>[IEEE ICTC 2024](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)|
+|2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[Team Space](https://github.com/TeletoVision)<br>[Project Intro](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|[]
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)<br>[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>|
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
 ## ✨ Experience  
 |PERIOD|TITLE|설명|
 |---|---|---|
-|2024.07.01~<br>2024.08.28|LG AI 연구원 주관 LG Aimers 5기|진행중|
+|2024.07.01~<br>2024.08.28|LG AI 연구원 주관 LG Aimers 5기|수료|
 |2024.05.31~<br>2024.10.31|SKT 주관 SKT AI Fellowship 6기|진행중|
 |2024.01.02~<br>2024.02.28|LG AI 연구원 주관 LG Aimers 4기|수료|
 |2023.07.01~<br>2023.09.18|LG AI 연구원 주관 LG Aimers 3기|[활동 내용](https://dacon.io/competitions/official/236129/overview/description)/ [공식사이트](https://www.lgaimers.ai/)|
@@ -46,12 +48,10 @@
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 
 ## 🏆 AI Challenge & Projects  
-`🤗[Proceeding] in 2024 ETRI Self-Improving Artificial Intelligence Competition(07/29~09/11)`  
+🏅`[4th Place] in 2024 The 15th International Conference on ICT Convergence`  
+> Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
+> [repo link](https://github.com/YUL-git/ETRI_LifeLog)
   
-`🤗[Proceeding] in 2024 The 15th International Conference on ICT Convergence(04/18~10/16)`  
-  
-`🤗[Proceeding] in 2024 LG Electronics Vehicle component Solutions AI Challenge(08/01~08/28)`  
-
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
