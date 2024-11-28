@@ -30,7 +30,7 @@
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |2024.07.01~<br>2024.08.28|LG AI 연구원 주관 LG Aimers 5기|수료|
-|2024.05.31~<br>2024.10.31|SKT 주관 SKT AI Fellowship 6기|진행중|
+|2024.05.31~<br>2024.10.31|SKT 주관 SKT AI Fellowship 6기|[활동 내용](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)|
 |2024.01.02~<br>2024.02.28|LG AI 연구원 주관 LG Aimers 4기|수료|
 |2023.07.01~<br>2023.09.18|LG AI 연구원 주관 LG Aimers 3기|[활동 내용](https://dacon.io/competitions/official/236129/overview/description)/ [공식사이트](https://www.lgaimers.ai/)|
 |2023.06.26~<br>2023.09.01|SKT 주관 SKT FLY AI 3기|[수료증, 상장](https://www.notion.so/machine-learning-research/SKT-FLY-AI-Challenge-Agarang-8d173592ca0d40a482f5829fbbb1d043?pvs=4)/[활동 내용](https://suloth.tistory.com/173)/ [공식사이트](https://www.skttechacademy.com/)|
