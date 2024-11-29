@@ -38,18 +38,17 @@
 |2023.01.02~<br>2023.03.26|LG AI 연구원 주관 LG Aimers 2기|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/LG-Aimers-2-b46fa57fa1584debb5066c3d1eed624f?pvs=4)/ [공식사이트](https://www.lgaimers.ai/)|
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 
-## 🏆 AI Challenge & Projects  
+## 🏆 AI Challenge & Hackathon
+[Selected & On going] in 2024 LG Electronics iPBL Idea Competition`
+> Title: Empathy-Driven DIY Refrigerator Designed with Evolving Consumer Values in Mind
+  
 🥇`[1st Place] in 2024 K-Artificial Intelligence Manufacturing Data Analysis Competition`  
-> Task: Development of a Universal Defect Prediction and Decision-Making System through AI-Based Quality Indicator Generation  
-> [Repo link]()
-> [News]()
-
-🏅`[4th Place] in 2024 The 15th International Conference on ICT Convergence`  
-> Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
-> [repo link](https://github.com/YUL-git/ETRI_LifeLog)
+> Title: Development of a Universal Defect Prediction and Decision-Making System through AI-Based Quality Indicator Generation  
+> [Repo link](Comming soon)
+> [News](Comming soon)
   
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
->Task: classify the product quality using tabular data from the LG display factory  
+>Task: Classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
   
 🥈`[2nd Place] in 2023 SKT FLY AI Challenge`  
@@ -67,6 +66,10 @@
 🥉`[3rd Place] in 2023 AI vs Human Text Detection Hackathon`
 >Task: AI vs Human Text Detection
 >[CODE](https://dacon.io/competitions/official/236178/codeshare/9144)
+
+🏅`[4th Place] in 2024 The 15th International Conference on ICT Convergence`  
+> Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
+> [repo link](https://github.com/YUL-git/ETRI_LifeLog)  
   
 🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
