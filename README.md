@@ -26,6 +26,12 @@
 |2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[Team Space](https://github.com/TeletoVision)<br>[Project Intro](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|[]
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
+
+## 🤗 Patent
+|PERIOD|TITLE|DESCRIPTION|
+|---|---|---|
+|Comming Soon...|...|...|
+
 ## ✨ Experience  
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
@@ -39,7 +45,7 @@
 |2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
 
 ## 🏆 AI Challenge & Hackathon
-[Selected & On going] in 2024 LG Electronics iPBL Idea Competition`
+`[Selected & On going] in 2024 LG Electronics iPBL Idea Competition`
 > Title: Empathy-Driven DIY Refrigerator Designed with Evolving Consumer Values in Mind
   
 🥇`[1st Place] in 2024 K-Artificial Intelligence Manufacturing Data Analysis Competition`  
