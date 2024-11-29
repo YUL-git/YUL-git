@@ -15,8 +15,8 @@
 ## 👨🏻‍🔬 Publication
 |PERIOD|TITLE|Conference|
 |---|---|---|
-|2024.09.27~<br>2025.04.24|Under review|[ICLR 2025](https://iclr.cc/)|
-|2024.12.22~<br>2025.02.18|Submitted|[ICAIIC 2025](https://icaiic.org/)|
+|2024.09.27~<br>2025.04.24|GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection|[arXiv](https://arxiv.org/abs/2411.06071)|
+|2024.12.22~<br>2025.02.18|DHR-CLIP: Dynamic High Resolution for Zero-shot Anomaly Segmantation|[ICAIIC 2025](https://icaiic.org/)|
 |2024.04.18~<br>2024.10.16|Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[ICTC 2024](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)<br>[CODE](https://github.com/YUL-git/ETRI_LifeLog)|
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)|
 ## 👨🏻‍🔬 Project  
