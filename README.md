@@ -19,7 +19,7 @@
 |2024.10.22~<br>2025.02.18|DHR-CLIP: Dynamic High Resolution for Zero-shot Anomaly Segmantation|[ICAIIC 2025](https://icaiic.org/)|
 |2024.04.18~<br>2024.10.16|Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[ICTC 2024](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)<br>[CODE](https://github.com/YUL-git/ETRI_LifeLog)|
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)|
-## 👨🏻‍🔬 Project  
+## 🚴‍♂️ Project  
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
@@ -27,7 +27,7 @@
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
 
-## 🤗 Patent
+## 🛠️ Patent
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |Comming Soon...|...|...|
