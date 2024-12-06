@@ -19,31 +19,7 @@
 |2024.10.22~<br>2025.02.18|DHR-CLIP: Dynamic High Resolution for Zero-shot Anomaly Segmantation|[ICAIIC 2025](https://icaiic.org/)<br>[CODE]()
 |2024.04.18~<br>2024.10.16|Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[ICTC 2024](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)<br>[CODE](https://github.com/YUL-git/ETRI_LifeLog)|
 |2023.06.26~<br>2024.02.01|A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[한국컴퓨터정보학회논문지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)|
-## 🚴‍♂️ Project  
-|PERIOD|TITLE|DESCRIPTION|
-|---|---|---|
-|2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
-|2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[Team Space](https://github.com/TeletoVision)<br>[Project Intro](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|[]
-|2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
-|2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
-
-## 🛠️ Patent
-|PERIOD|TITLE|DESCRIPTION|
-|---|---|---|
-|Comming Soon...|...|...|
-
-## ✨ Experience  
-|PERIOD|TITLE|DESCRIPTION|
-|---|---|---|
-|2024.07.01~<br>2024.08.28|LG AI 연구원 주관 LG Aimers 5기|수료|
-|2024.05.31~<br>2024.10.31|SKT 주관 SKT AI Fellowship 6기|[활동 내용](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)|
-|2024.01.02~<br>2024.02.28|LG AI 연구원 주관 LG Aimers 4기|수료|
-|2023.07.01~<br>2023.09.18|LG AI 연구원 주관 LG Aimers 3기|[활동 내용](https://dacon.io/competitions/official/236129/overview/description)/ [공식사이트](https://www.lgaimers.ai/)|
-|2023.06.26~<br>2023.09.01|SKT 주관 SKT FLY AI 3기|[수료증, 상장](https://www.notion.so/machine-learning-research/SKT-FLY-AI-Challenge-Agarang-8d173592ca0d40a482f5829fbbb1d043?pvs=4)/[활동 내용](https://suloth.tistory.com/173)/ [공식사이트](https://www.skttechacademy.com/)|
-|2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
-|2023.01.02~<br>2023.03.26|LG AI 연구원 주관 LG Aimers 2기|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/LG-Aimers-2-b46fa57fa1584debb5066c3d1eed624f?pvs=4)/ [공식사이트](https://www.lgaimers.ai/)|
-|2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
-
+  
 ## 🏆 AI Challenge & Hackathon
 `[Selected & On going] in 2024 LG Electronics iPBL Idea Competition`
 > Title: Empathy-Driven DIY Refrigerator Designed with Evolving Consumer Values in Mind
@@ -79,4 +55,29 @@
 
 🏅`[4th Place] in 2024 The 15th International Conference on ICT Convergence`  
 > Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
-> [repo link](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)
+> [repo link](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)  
+  
+## 🚴‍♂️ Project  
+|PERIOD|TITLE|DESCRIPTION|
+|---|---|---|
+|2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
+|2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[Team Space](https://github.com/TeletoVision)<br>[Project Intro](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|[]
+|2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
+|2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
+
+## 🛠️ Patent
+|PERIOD|TITLE|DESCRIPTION|
+|---|---|---|
+|Comming Soon...|...|...|
+
+## ✨ Experience  
+|PERIOD|TITLE|DESCRIPTION|
+|---|---|---|
+|2024.07.01~<br>2024.08.28|LG AI 연구원 주관 LG Aimers 5기|수료|
+|2024.05.31~<br>2024.10.31|SKT 주관 SKT AI Fellowship 6기|[활동 내용](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)|
+|2024.01.02~<br>2024.02.28|LG AI 연구원 주관 LG Aimers 4기|수료|
+|2023.07.01~<br>2023.09.18|LG AI 연구원 주관 LG Aimers 3기|[활동 내용](https://dacon.io/competitions/official/236129/overview/description)/ [공식사이트](https://www.lgaimers.ai/)|
+|2023.06.26~<br>2023.09.01|SKT 주관 SKT FLY AI 3기|[수료증, 상장](https://www.notion.so/machine-learning-research/SKT-FLY-AI-Challenge-Agarang-8d173592ca0d40a482f5829fbbb1d043?pvs=4)/[활동 내용](https://suloth.tistory.com/173)/ [공식사이트](https://www.skttechacademy.com/)|
+|2023.05.01~<br>2023.06.02|네이버 커넥트재단 부스트코스 코칭스터디 10기 리더|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/10-791396fb29c8490199d8b31896c89853?pvs=4)|
+|2023.01.02~<br>2023.03.26|LG AI 연구원 주관 LG Aimers 2기|[수료증 및 활동 내용](https://www.notion.so/machine-learning-research/LG-Aimers-2-b46fa57fa1584debb5066c3d1eed624f?pvs=4)/ [공식사이트](https://www.lgaimers.ai/)|
+|2022.12.13~<br>2022.12.31|네이버 커넥트재단 부스트캠프 AI Tech 5기 Pre-Course|[수료증](https://www.notion.so/machine-learning-research/f9ec694c7e724c80b0a06764790b40a8?pvs=4)|
