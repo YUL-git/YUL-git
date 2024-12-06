@@ -31,11 +31,11 @@
   
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: Classify the product quality using tabular data from the LG display factory  
->[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
+>[Repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
 
 🥇`[1st Place] in 2022 AI Challenge`  
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
->[repo link](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
+>[Repo link](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) | [News](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
   
 🥈`[2nd Place] in 2023 SKT FLY AI Challenge`  
 >Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
@@ -55,7 +55,7 @@
 
 🏅`[4th Place] in 2024 The 15th International Conference on ICT Convergence`  
 > Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
-> [repo link](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)  
+> [Repo link](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)  
   
 ## 🚴‍♂️ Project  
 |PERIOD|TITLE|DESCRIPTION|
@@ -63,7 +63,7 @@
 |2024.07.01~<br>2025.06.31|지능형 비전 검사 시스템을 위한 다차원 이미지 데이터 기반 <br> 멀티모달 머신비전 기술 및 의사결정 지원 시스템 개발|한국연구재단 <br> 석사과정장려지원사업|
 |2024.05.31~<br>2024.10.31|대규모 Multimodal AI모델을 이용한 영상 검색 시스템 개발|[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[Team Space](https://github.com/TeletoVision)<br>[Project Intro](https://www.sktaifellowship.com/d48d779c-f591-437b-856d-b018ef539b43)|[]
 |2023.08.07~<br>2023.08.28|LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[CODE](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
-|2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode Contribution](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
+|2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
 
 ## 🛠️ Patent
 |PERIOD|TITLE|DESCRIPTION|
