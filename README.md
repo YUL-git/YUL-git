@@ -56,6 +56,10 @@
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: Classify the product quality using tabular data from the LG display factory  
 >[repo link](https://github.com/YUL-git/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [Korean Economy News](https://www.hankyung.com/it/article/202304071562g) | [School News](https://web.kangnam.ac.kr/menu/board/info/91e87af8a39d7468a705e907abd020d5.do?encMenuSeq=f27334797be7f56644db09015634bf5b&encMenuBoardSeq=4f29b32e9c7ad0830c87df51e8e3ffdc)  
+
+🥇`[1st Place] in 2022 AI Challenge`  
+>Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
+>[repo link](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
   
 🥈`[2nd Place] in 2023 SKT FLY AI Challenge`  
 >Task: Baby face generation service using 3D stereoscopic ultrasound to alleviate psychological issues for pregnant women  
@@ -75,8 +79,4 @@
 
 🏅`[4th Place] in 2024 The 15th International Conference on ICT Convergence`  
 > Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
-> [repo link](https://github.com/YUL-git/ETRI_LifeLog)  
-  
-🥇`[1st Place] in 2022 AI Challenge`  
->Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
->[repo link](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
+> [repo link]([https://github.com/YUL-git/ETRI_LifeLog](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction))  
