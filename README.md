@@ -77,20 +77,6 @@
 > Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
 > [repo link](https://github.com/YUL-git/ETRI_LifeLog)  
   
-🥇`[1st Place] in 2022 Kangnam Univ AI Challenge`  
+🥇`[1st Place] in 2022 AI Challenge`  
 >Task: utilization of yolo v5 to reduce pedestrian accidents for the disabled  
 >[repo link](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble) | [news](https://ace.kangnam.ac.kr/menu/board/info/f3a3bfbbc5715e4180657f71177d8bcf.do?scrtWrtiYn=false&encMenuSeq=5a1dc776d71dae825ed365be75187a1e&encMenuBoardSeq=d5e08d8b9aee4051aecbcd81986670b8)
-  
-🎖`[Top 2%] in 2024 LG Online Channel Product Sales Forecast AI Online Hackathon`  
->Task:  Online Channel Product Sales Forecast  
-  
-🎖️`[Top 1%] in 2023 Dacon Book Recommendation AI Challenge`
->Task: Book recommendation system using books and user information  
-
-🎖️`[Top 6%] in 2023 AI Factory AI Spark Challenge`  
->Task: classify the air compressor abnomalities  
->[repo link](https://github.com/YUL-git/2023_AI_Factory_Outlier_Detection_Air_Compressor_faults_Top_6_Solution)  
-  
-👨🏻‍🎓`[Graduation Works] in 2023 Capstone Design Project`  
->Task: Transformer-Based AI PDF Paper English Machine Translation Model  
->[repo link](https://github.com/YUL-git/2023_Capstone_Design_Graduate_Work/blob/main/README.md)  
