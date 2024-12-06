@@ -79,4 +79,4 @@
 
 🏅`[4th Place] in 2024 The 15th International Conference on ICT Convergence`  
 > Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
-> [repo link]([https://github.com/YUL-git/ETRI_LifeLog](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction))  
+> [repo link](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)
