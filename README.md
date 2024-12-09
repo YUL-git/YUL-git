@@ -15,6 +15,7 @@
 ## 👨🏻‍🔬 Publication
 |PERIOD|TITLE|Conference|
 |---|---|---|
+||Catching up...||
 |2024.09.27~<br>2025.01.22|GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection|[arXiv](https://arxiv.org/abs/2411.06071)<br>[CODE](https://github.com/YUL-git/GlocalCLIP)|
 |2024.10.22~<br>2025.02.18|DHR-CLIP: Dynamic High Resolution Prompt Learning for Zero-shot Anomaly Segmantation|[ICAIIC 2025](https://icaiic.org/)<br>[CODE](https://github.com/YUL-git/DHR-CLIP)
 |2024.04.18~<br>2024.10.16|Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network with Attention Mechanism|[ICTC 2024](https://ieeexplore.ieee.org/xpl/conhome/1800238/all-proceedings)<br>[CODE](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)|
