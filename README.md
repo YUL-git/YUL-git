@@ -62,7 +62,7 @@
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |2024.07.01~<br>2025.06.31|Development of a Multimodal Machine Vision Technology and Decision Support System<br>Based on Multidimensional Image Data for Intelligent Vision Inspection Systems|[Project Space](https://github.com/YUL-git/Vision_Inspection_System)|
-|2024.05.31~<br>2024.10.31|Development of Video Retrieval System in VMS using Large-scale Multimodal AI|[Project Space](https://github.com/TeletoVision)<br>[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)|  
+|2024.05.31~<br>2024.10.31|Development of Video Retrieval System in VMS using Large-scale Multimodal AI|[Project Space](https://github.com/TeletoVision)<br>[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)<br>[DEVOCEAN](https://devocean.sk.com/blog/writer/index.do?ID=&boardType=&searchDataSub=&page=&searchDataMain=AI_FELLOWSHIP&searchText=%EC%9C%A8%EB%8F%99%EA%B3%B5%EC%9B%90&techType=&searchData=hramsm123&comment=)|  
 |2023.08.07~<br>2023.08.28|Multivariate/Univariate with Exogenuous Time-series Anomaly Detection<br>LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[Project Space](https://github.com/YUL-git/TSAD)<br>[Project Space](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
 |2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
 
