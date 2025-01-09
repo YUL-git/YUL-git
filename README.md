@@ -27,8 +27,6 @@
   
 🥇`[1st Place] in 2024 K-Artificial Intelligence Manufacturing Data Analysis Competition`  
 > Title: Development of a Universal Defect Prediction and Decision-Making System through AI-Based Quality Indicator Generation  
-> [Repo link](Comming soon)
-> [News](Comming soon)
   
 🥇`[1st Place] in 2023 LG Display Quality Classification AI Challenge`  
 >Task: Classify the product quality using tabular data from the LG display factory  
