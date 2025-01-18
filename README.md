@@ -16,6 +16,7 @@
 |PERIOD|TITLE|Conference|
 |---|---|---|
 ||<div align="center"> Catching up... 🧪||
+|2025.01.02~<br>2025.02.6|<div align="center"> A Study on a Generalizable Tabular Anomaly Detection for Machine Operations Using Deep Learning-Based Quality Score Generation|[CODE]()|
 |2024.09.27~<br>2025.01.22|<div align="center"> GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection|[arXiv](https://arxiv.org/abs/2411.06071)<br>[CODE](https://github.com/YUL-git/GlocalCLIP)|
 |2024.10.22~<br>2025.02.18|<div align="center">DHR-CLIP: Dynamic High Resolution Object-agnostic Prompt Learning <br>for Zero-shot Anomaly Segmantation|[ICAIIC 2025](https://icaiic.org/)<br>[CODE](https://github.com/YUL-git/DHR-CLIP)
 |2024.04.18~<br>2024.10.16|<div align="center">Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network <br>with Attention Mechanism|[ICTC 2024](https://ieeexplore.ieee.org/document/10826781)<br>[CODE](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)|
