@@ -6,6 +6,7 @@
 * My MBTI is ENFP/INFP ✨
 * I like basketball 🏀
 * I want to be AI researcher 🧪
+* [Google Scholar](https://scholar.google.com/citations?user=HRS5XtkAAAAJ&hl=en&oi=ao)
 
 ### 🔎 Research Interest  
 * Vision-Language Models
