@@ -21,6 +21,15 @@
 |2024.04.18~<br>2024.10.16|<div align="center">Human Understanding from Lifelog Data via Mobile Sensors Using a GRU Network <br>with Attention Mechanism|[ICTC 2024](https://ieeexplore.ieee.org/document/10826781)<br>[CODE](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)|
 |2023.06.26~<br>2024.02.01|<div align="center">A Study on Traffic Vulnerable Detection Using Object Detection-Based Ensemble and Yolo|[JKSCI 2024](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11698508)<br>[CODE](https://github.com/YUL-git/A-Study-on-Traffic-Vulnerable-Detection-Using-Object-Detection-Based-Esemble)|
   
+## 🚴‍♂️ Project  
+|PERIOD|TITLE|DESCRIPTION|
+|---|---|---|
+|2024.07.01~<br>2025.06.31|Development of a Multimodal Machine Vision Technology and Decision Support System<br>Based on Multidimensional Image Data for Intelligent Vision Inspection Systems|[Project Space](https://github.com/YUL-git/Vision_Inspection_System)|
+|2024.05.31~<br>2024.10.31|Development of Video Retrieval System in VMS using Large-scale Multimodal AI|[Project Space](https://github.com/TeletoVision)<br>[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)|
+|2023.08.07~<br>2023.08.28|Multivariate/Univariate with Exogenuous Time-series Anomaly Detection<br>LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[Project Space](https://github.com/YUL-git/TSAD)<br>[Project Space](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
+|2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
+
+  
 ## 🏆 AI Challenge & Hackathon
 `[Selected & On going] in 2024 LG Electronics iPBL Idea Competition`
 > Title: Empathy-Driven DIY Refrigerator Designed with Evolving Consumer Values in Mind
@@ -56,14 +65,6 @@
 > Task: Human Understanding from Real-world Multivariate IoT Sensor Data  
 > [Repo link](https://github.com/YUL-git/SSP_Smart-Sensor-Prediction)  
   
-## 🚴‍♂️ Project  
-|PERIOD|TITLE|DESCRIPTION|
-|---|---|---|
-|2024.07.01~<br>2025.06.31|Development of a Multimodal Machine Vision Technology and Decision Support System<br>Based on Multidimensional Image Data for Intelligent Vision Inspection Systems|[Project Space](https://github.com/YUL-git/Vision_Inspection_System)|
-|2024.05.31~<br>2024.10.31|Development of Video Retrieval System in VMS using Large-scale Multimodal AI|[Project Space](https://github.com/TeletoVision)<br>[📺 Blog 📺](https://velog.io/@harms/series/%EB%82%98%EC%9D%98-%EC%9D%BC%EA%B8%B0)|
-|2023.08.07~<br>2023.08.28|Multivariate/Univariate with Exogenuous Time-series Anomaly Detection<br>LTSF-Linear Model Incorporating Future, Past, and Static Covariates|[Project Space](https://github.com/YUL-git/TSAD)<br>[Project Space](https://github.com/YUL-git/LTSF_DLinear_Model_Incorporating_Future_Past_and_Static_Covariates.git)|
-|2023.06.26~<br>2023.08.14|Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection|[Paperwithcode](https://paperswithcode.com/paper/memorizing-normality-to-detect-anomaly-memory)|
-
 ## 🛠️ Patent
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
