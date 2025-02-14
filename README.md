@@ -9,9 +9,9 @@
 * [Google Scholar](https://scholar.google.com/citations?user=HRS5XtkAAAAJ&hl=en&oi=ao)
 
 ### 🔎 Research Interest  
+* Anomaly Detection
 * Vision-Language Models
 * Generative AI
-* Multimodal Pattern Recognition
   
 ## 👨🏻‍🔬 Publication
 |PERIOD|TITLE|Conference|
